@@ -40,8 +40,6 @@ export default function Home() {
 <Image className="rect-8928 mt-[24.78px] ml-[750px]  absolute " src="/images/unsplash_fdlZBWIP0aM.png" width={860.82} height={54.27} alt="pict-8926"/>
 <div className="layout-2 h-[756px] w-[882px]  ml-[730px] border-4 absolute ">
       
-{/* <Image className="rect-8926 mt-[20.49px] ml-[19.86px] absolute " src="/images/Rectangle 8926.png" width={624.15} height={523.51} alt="pict-8926"/>
-<Image className="rect-8928 mt-[40.49px] ml-[39.86px] absolute " src="/images/Rectangle 8926.png" width={96.38} height={99.19} alt="pict-8926"/> */} */}
  
 <Image className="image-68 bg-gray-950 mt-[38.78px] ml-[550px] rotate-4 bg-no-repeat bg-background opacity-40 absolute " src="/images/image 68.png" width={360.82} height={354.27} alt="pict-8926"/>  */}
         
