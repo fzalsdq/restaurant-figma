@@ -49,7 +49,7 @@ export default function Home() {
   <span className="AboutUs w-16 p-2 text-[#FF9F0D] border-2 size-8 leading-10 font-family: Great Vibes, cursive font-normal h-[40px] mt-[293px]">About Us </span>
    <span className="Th text-[#FF9F0D] w-[249px] h-[40px] ml-[-80px] mt-8 pt-2  size-8 text-3xl font-bold absolute">We <span className="Art-food w-56 h-40px  size-8 text-3xl text-white font-bold border-2 absolute">create the best</span><span className="food-quality text-white absolute mt-10 ml-[-42px]">foody product</span></span>
    <p className="para-text font-family: Inter, sans-serif text-sm text-white p-2 w-[418px] h-12 ml-300px pt-2 mt-[100px]">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium repudiandae totam est eligendi ut dicta fuga eius? Laboriosam in recusandae.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium repudiandae totam est eligendi ut dicta fuga eius? Laboriosam in recusandae.</p>
-   <p className="para-text font-family: Inter, sans-serif text-sm text-white w-[418px] h-12 pt-4 pl-8 mt-[100px] leading-3">Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p> */}
+   <p className="para-text font-family: Inter, sans-serif text-sm text-white w-[418px] h-12 pt-4 pl-8 mt-[100px] leading-3">Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p> 
    
    <p className="para-text font-family: Inter, sans-serif text-sm text-white w-[418px] h-12 pt-2 pl-8 mb-4 sml-380px pb-2 leading-3">Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
    <p className="para-text font-family: Inter, sans-serif text-sm text-white w-[418px] h-12  pl-8 ml-380px pt-2 leading-3">Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
