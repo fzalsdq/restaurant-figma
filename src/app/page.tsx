@@ -41,7 +41,7 @@ export default function Home() {
 <div className="layout-2 h-[756px] w-[882px]  ml-[730px] border-4 absolute ">
       
  
-<Image className="image-68 bg-gray-950 mt-[38.78px] ml-[550px] rotate-4 bg-no-repeat bg-background opacity-40 absolute " src="/images/image 68.png" width={360.82} height={354.27} alt="pict-8926"/>  */}
+<Image className="image-68 bg-gray-950 mt-[38.78px] ml-[550px] rotate-4 bg-no-repeat bg-background opacity-40 absolute " src="/images/image 68.png" width={360.82} height={354.27} alt="pict-8926"/>
         
         
          </div>
