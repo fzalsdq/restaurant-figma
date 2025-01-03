@@ -12,6 +12,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fonts: {
+        font: "Great Vibes,Inter",
+      }
     },
   },
   plugins: [],
